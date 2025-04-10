@@ -10,8 +10,9 @@ disable_sections = true
 <div class="container-fluid">
     <div class="justify-content-center row">
         <div class="col col-auto col-lg-8 px-0">
-            <p class="lead mb-0 text-center">Carpos clicks was started with a drive to enhance Banff National Park visitor experiences and create lasting memories</p>
-        </div>
+            <p class="lead mb-0 text-center">Carpos clicks was started with a drive to enhance Banff National Park visitor experiences and create lasting memories.</p>       
+        </div> 
+        <div class="col col-auto col-lg-8 px-0 lead mb-0 text-center"> {{% paige/email address="dan_carps@protonmail.com" %}}Contact Us{{% /paige/email %}} for rental inquiries.</div>
     </div>
 </div> 
 

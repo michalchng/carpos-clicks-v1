@@ -1,4 +1,4 @@
 +++
-description = "Please contact us for multiday rental inquiries"
+description = "Please contact us for multiday rental pricing"
 title = "Multiday"
 +++
