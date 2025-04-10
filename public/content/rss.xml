@@ -34,10 +34,10 @@
 
 <?xml version="1.0" encoding="utf-8"?>
 
-<rss version="2.0"  xml:lang="en-us"  xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"  xml:lang="en-ca"  xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         
-            <copyright>© Carpo&rsquo;s Clicks</copyright>
+            <copyright>© Carpo&rsquo;s Clicks 360 Photobooth</copyright>
         
 
         
@@ -45,7 +45,7 @@
         
 
         
-            <language>en-us</language>
+            <language>en-ca</language>
         
 
         
@@ -57,21 +57,21 @@
         
 
         
-            <atom:link href="http://localhost:1313/content/rss.xml" hreflang="en-us" rel="self" type="application/rss+xml"/>
+            <atom:link href="http://localhost:1313/content/rss.xml" hreflang="en-ca" rel="self" type="application/rss+xml"/>
         
 
         
             
 
-            <atom:link href="http://localhost:1313/content/atom.xml" hreflang="en-us" rel="alternate" type="application/atom+xml"/>
+            <atom:link href="http://localhost:1313/content/atom.xml" hreflang="en-ca" rel="alternate" type="application/atom+xml"/>
         
             
 
-            <atom:link href="http://localhost:1313/content/" hreflang="en-us" rel="alternate" type="text/html"/>
+            <atom:link href="http://localhost:1313/content/" hreflang="en-ca" rel="alternate" type="text/html"/>
         
             
 
-            <atom:link href="http://localhost:1313/content/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/>
+            <atom:link href="http://localhost:1313/content/rss.xml" hreflang="en-ca" rel="alternate" type="application/rss+xml"/>
         
 
         
@@ -141,7 +141,7 @@
 
                         
 
-                        <atom:link href="http://localhost:1313/content/alert/" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/content/alert/" hreflang="en-ca" rel="alternate" type="text/html"/>
                     
 
                     
@@ -211,7 +211,7 @@ is a useful reference for emoji shorthand codes.</p><hr><p><strong>N.B.</strong>
 
                         
 
-                        <atom:link href="http://localhost:1313/content/emoji-support/" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/content/emoji-support/" hreflang="en-ca" rel="alternate" type="text/html"/>
                     
 
                     
@@ -281,7 +281,7 @@ is a useful reference for emoji shorthand codes.</p><hr><p><strong>N.B.</strong>
 
                         
 
-                        <atom:link href="https://willfaught.com/paige" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="https://willfaught.com/paige" hreflang="en-ca" rel="alternate" type="text/html"/>
                     
 
                     
@@ -375,7 +375,7 @@ during Gopherfest, November 18, 2015.&#160;<a href=http://localhost:1313/content
 
                         
 
-                        <atom:link href="http://localhost:1313/content/markdown-syntax/" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/content/markdown-syntax/" hreflang="en-ca" rel="alternate" type="text/html"/>
                     
 
                     
@@ -445,7 +445,7 @@ $$</p>]]></description>
 
                         
 
-                        <atom:link href="http://localhost:1313/content/math-typesetting/" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/content/math-typesetting/" hreflang="en-ca" rel="alternate" type="text/html"/>
                     
 
                     
@@ -509,7 +509,7 @@ $$</p>]]></description>
 
                         
 
-                        <atom:link href="http://localhost:1313/content/placeholder-text/" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/content/placeholder-text/" hreflang="en-ca" rel="alternate" type="text/html"/>
                     
 
                     
@@ -575,7 +575,7 @@ and a set of Simple Shortcodes that enable static and no-JS versions of various 
 
                         
 
-                        <atom:link href="http://localhost:1313/content/rich-content/" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/content/rich-content/" hreflang="en-ca" rel="alternate" type="text/html"/>
                     
 
                     

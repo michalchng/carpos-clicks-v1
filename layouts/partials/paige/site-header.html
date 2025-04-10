@@ -40,6 +40,7 @@
         {{ with $title }}
             <div class="display-1 fw-bold {{ if not (or $breadcrumbs $description $menu) }} paige-row-tall {{ end }} text-center" id="paige-site-title">
                 <a class="text-body text-decoration-none" href="{{ relLangURL `` }}">{{ . }}</a>
+                <!-- <a href="{{ relLangURL `` }}">{{ . }}<img src="/cc-sticker.png" style="height:100px;"></a> -->
             </div>
         {{ end }}
 

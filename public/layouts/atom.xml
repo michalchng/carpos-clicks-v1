@@ -35,7 +35,7 @@
 
 <?xml version="1.0" encoding="utf-8"?>
 
-<feed  xml:lang="en-us"  xmlns="http://www.w3.org/2005/Atom">
+<feed  xml:lang="en-ca"  xmlns="http://www.w3.org/2005/Atom">
     
         <author>
             
@@ -61,21 +61,21 @@
     
 
     
-        <link href="http://localhost:1313/layouts/atom.xml" hreflang="en-us" rel="self" type="application/atom+xml"/>
+        <link href="http://localhost:1313/layouts/atom.xml" hreflang="en-ca" rel="self" type="application/atom+xml"/>
     
 
     
         
 
-        <link href="http://localhost:1313/layouts/atom.xml" hreflang="en-us" rel="alternate" type="application/atom+xml"/>
+        <link href="http://localhost:1313/layouts/atom.xml" hreflang="en-ca" rel="alternate" type="application/atom+xml"/>
     
         
 
-        <link href="http://localhost:1313/layouts/" hreflang="en-us" rel="alternate" type="text/html"/>
+        <link href="http://localhost:1313/layouts/" hreflang="en-ca" rel="alternate" type="text/html"/>
     
         
 
-        <link href="http://localhost:1313/layouts/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/>
+        <link href="http://localhost:1313/layouts/rss.xml" hreflang="en-ca" rel="alternate" type="application/rss+xml"/>
     
 
     
@@ -85,7 +85,7 @@
     
 
     
-        <rights type="html"><![CDATA[© Carpo&rsquo;s Clicks]]></rights>
+        <rights type="html"><![CDATA[© Carpo&rsquo;s Clicks 360 Photobooth]]></rights>
     
 
     
@@ -137,7 +137,7 @@
 
                     
 
-                    <link href="http://localhost:1313/layouts/cloud/apple/" hreflang="en-us" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:1313/layouts/cloud/apple/" hreflang="en-ca" rel="alternate" type="text/html"/>
                 
 
                 
@@ -147,7 +147,7 @@
                 
 
                 
-                    <rights type="html"><![CDATA[© Carpo&rsquo;s Clicks]]></rights>
+                    <rights type="html"><![CDATA[© Carpo&rsquo;s Clicks 360 Photobooth]]></rights>
                 
 
                 
@@ -198,7 +198,7 @@
 
                     
 
-                    <link href="http://localhost:1313/layouts/cloud/banana/" hreflang="en-us" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:1313/layouts/cloud/banana/" hreflang="en-ca" rel="alternate" type="text/html"/>
                 
 
                 
@@ -208,7 +208,7 @@
                 
 
                 
-                    <rights type="html"><![CDATA[© Carpo&rsquo;s Clicks]]></rights>
+                    <rights type="html"><![CDATA[© Carpo&rsquo;s Clicks 360 Photobooth]]></rights>
                 
 
                 
@@ -259,7 +259,7 @@
 
                     
 
-                    <link href="http://localhost:1313/layouts/cloud/cantaloupe/" hreflang="en-us" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:1313/layouts/cloud/cantaloupe/" hreflang="en-ca" rel="alternate" type="text/html"/>
                 
 
                 
@@ -269,7 +269,7 @@
                 
 
                 
-                    <rights type="html"><![CDATA[© Carpo&rsquo;s Clicks]]></rights>
+                    <rights type="html"><![CDATA[© Carpo&rsquo;s Clicks 360 Photobooth]]></rights>
                 
 
                 
@@ -340,7 +340,7 @@
 
                     
 
-                    <link href="http://localhost:1313/layouts/search/" hreflang="en-us" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:1313/layouts/search/" hreflang="en-ca" rel="alternate" type="text/html"/>
                 
 
                 
@@ -350,7 +350,7 @@
                 
 
                 
-                    <rights type="html"><![CDATA[© Carpo&rsquo;s Clicks]]></rights>
+                    <rights type="html"><![CDATA[© Carpo&rsquo;s Clicks 360 Photobooth]]></rights>
                 
 
                 

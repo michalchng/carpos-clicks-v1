@@ -40,10 +40,10 @@
 
 <?xml version="1.0" encoding="utf-8"?>
 
-<rss version="2.0"  xml:lang="en-us"  xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"  xml:lang="en-ca"  xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         
-            <copyright>© Carpo&rsquo;s Clicks</copyright>
+            <copyright>© Carpo&rsquo;s Clicks 360 Photobooth</copyright>
         
 
         
@@ -51,7 +51,7 @@
         
 
         
-            <language>en-us</language>
+            <language>en-ca</language>
         
 
         
@@ -63,21 +63,21 @@
         
 
         
-            <atom:link href="http://localhost:1313/series/series-demo/rss.xml" hreflang="en-us" rel="self" type="application/rss+xml"/>
+            <atom:link href="http://localhost:1313/series/series-demo/rss.xml" hreflang="en-ca" rel="self" type="application/rss+xml"/>
         
 
         
             
 
-            <atom:link href="http://localhost:1313/series/series-demo/atom.xml" hreflang="en-us" rel="alternate" type="application/atom+xml"/>
+            <atom:link href="http://localhost:1313/series/series-demo/atom.xml" hreflang="en-ca" rel="alternate" type="application/atom+xml"/>
         
             
 
-            <atom:link href="http://localhost:1313/series/series-demo/" hreflang="en-us" rel="alternate" type="text/html"/>
+            <atom:link href="http://localhost:1313/series/series-demo/" hreflang="en-ca" rel="alternate" type="text/html"/>
         
             
 
-            <atom:link href="http://localhost:1313/series/series-demo/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/>
+            <atom:link href="http://localhost:1313/series/series-demo/rss.xml" hreflang="en-ca" rel="alternate" type="application/rss+xml"/>
         
 
         
@@ -229,19 +229,19 @@
 
                         
 
-                        <atom:link href="http://localhost:1313/customizations/atom.xml" hreflang="en-us" rel="alternate" type="application/atom+xml"/>
+                        <atom:link href="http://localhost:1313/customizations/atom.xml" hreflang="en-ca" rel="alternate" type="application/atom+xml"/>
                     
                         
 
                         
 
-                        <atom:link href="http://localhost:1313/customizations/atom.xml" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/customizations/atom.xml" hreflang="en-ca" rel="alternate" type="text/html"/>
                     
                         
 
                         
 
-                        <atom:link href="http://localhost:1313/customizations/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/>
+                        <atom:link href="http://localhost:1313/customizations/rss.xml" hreflang="en-ca" rel="alternate" type="application/rss+xml"/>
                     
 
                     
@@ -380,7 +380,7 @@
 
                         
 
-                        <atom:link href="http://localhost:1313/customizations/show/" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/customizations/show/" hreflang="en-ca" rel="alternate" type="text/html"/>
                     
 
                     
@@ -544,7 +544,7 @@
 
                         
 
-                        <atom:link href="http://localhost:1313/customizations/style/" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/customizations/style/" hreflang="en-ca" rel="alternate" type="text/html"/>
                     
 
                     

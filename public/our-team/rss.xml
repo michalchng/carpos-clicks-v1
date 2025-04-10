@@ -1,0 +1,157 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+    
+        
+
+        
+            
+        
+    
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0"  xml:lang="en-ca"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+            <copyright>© Carpo&rsquo;s Clicks 360 Photobooth</copyright>
+        
+
+        
+
+        
+            <language>en-ca</language>
+        
+
+        
+            <lastBuildDate>Mon, 18 Sep 2023 21:21:05 -0700</lastBuildDate>
+        
+
+        
+            <link>http://localhost:1313/our-team/</link>
+        
+
+        
+            <atom:link href="http://localhost:1313/our-team/rss.xml" hreflang="en-ca" rel="self" type="application/rss+xml"/>
+        
+
+        
+            
+
+            <atom:link href="http://localhost:1313/our-team/atom.xml" hreflang="en-ca" rel="alternate" type="application/atom+xml"/>
+        
+            
+
+            <atom:link href="http://localhost:1313/our-team/" hreflang="en-ca" rel="alternate" type="text/html"/>
+        
+            
+
+            <atom:link href="http://localhost:1313/our-team/rss.xml" hreflang="en-ca" rel="alternate" type="application/rss+xml"/>
+        
+
+        
+
+        
+            <managingEditor>example@example.com (John Doe)</managingEditor>
+        
+
+        
+            <title>Our Team · Carpo&rsquo;s Clicks</title>
+        
+
+        
+            <webMaster>example@example.com (John Doe)</webMaster>
+        
+
+        
+            
+                <item>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    
+
+                    
+                        
+
+                        
+                            
+                        
+                    
+
+                    
+
+                    
+                        
+                    
+
+                    
+                    
+                    
+
+                    
+                        <author>example@example.com (Author Demo)</author>
+                    
+
+                    
+                        <description><![CDATA[CEO and founder of Carpos Clicks. Dan is constantly trying to improve his weak pickleball game]]></description>
+                    
+
+                    
+                        <guid isPermaLink="false">tag:localhost:1313,0001-01-01:/our-team/dan/</guid>
+                    
+
+                    
+                        <link>http://localhost:1313/our-team/dan/</link>
+                    
+
+                    
+                        
+
+                        
+
+                        <atom:link href="http://localhost:1313/our-team/dan/" hreflang="en-ca" rel="alternate" type="text/html"/>
+                    
+
+                    
+
+                    
+                        <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+                    
+
+                    
+                        <title>Daniel Carpenter</title>
+                    
+                </item>
+            
+        
+    </channel>
+</rss>

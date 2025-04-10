@@ -40,10 +40,10 @@
 
 <?xml version="1.0" encoding="utf-8"?>
 
-<rss version="2.0"  xml:lang="en-us"  xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"  xml:lang="en-ca"  xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         
-            <copyright>© Carpo&rsquo;s Clicks</copyright>
+            <copyright>© Carpo&rsquo;s Clicks 360 Photobooth</copyright>
         
 
         
@@ -51,7 +51,7 @@
         
 
         
-            <language>en-us</language>
+            <language>en-ca</language>
         
 
         
@@ -63,21 +63,21 @@
         
 
         
-            <atom:link href="http://localhost:1313/authors/author-demo/rss.xml" hreflang="en-us" rel="self" type="application/rss+xml"/>
+            <atom:link href="http://localhost:1313/authors/author-demo/rss.xml" hreflang="en-ca" rel="self" type="application/rss+xml"/>
         
 
         
             
 
-            <atom:link href="http://localhost:1313/authors/author-demo/atom.xml" hreflang="en-us" rel="alternate" type="application/atom+xml"/>
+            <atom:link href="http://localhost:1313/authors/author-demo/atom.xml" hreflang="en-ca" rel="alternate" type="application/atom+xml"/>
         
             
 
-            <atom:link href="http://localhost:1313/authors/author-demo/" hreflang="en-us" rel="alternate" type="text/html"/>
+            <atom:link href="http://localhost:1313/authors/author-demo/" hreflang="en-ca" rel="alternate" type="text/html"/>
         
             
 
-            <atom:link href="http://localhost:1313/authors/author-demo/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/>
+            <atom:link href="http://localhost:1313/authors/author-demo/rss.xml" hreflang="en-ca" rel="alternate" type="application/rss+xml"/>
         
 
         
@@ -229,19 +229,19 @@
 
                         
 
-                        <atom:link href="http://localhost:1313/customizations/atom.xml" hreflang="en-us" rel="alternate" type="application/atom+xml"/>
+                        <atom:link href="http://localhost:1313/customizations/atom.xml" hreflang="en-ca" rel="alternate" type="application/atom+xml"/>
                     
                         
 
                         
 
-                        <atom:link href="http://localhost:1313/customizations/atom.xml" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/customizations/atom.xml" hreflang="en-ca" rel="alternate" type="text/html"/>
                     
                         
 
                         
 
-                        <atom:link href="http://localhost:1313/customizations/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/>
+                        <atom:link href="http://localhost:1313/customizations/rss.xml" hreflang="en-ca" rel="alternate" type="application/rss+xml"/>
                     
 
                     
@@ -380,7 +380,7 @@
 
                         
 
-                        <atom:link href="http://localhost:1313/customizations/show/" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/customizations/show/" hreflang="en-ca" rel="alternate" type="text/html"/>
                     
 
                     
@@ -544,7 +544,7 @@
 
                         
 
-                        <atom:link href="http://localhost:1313/customizations/style/" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/customizations/style/" hreflang="en-ca" rel="alternate" type="text/html"/>
                     
 
                     
@@ -611,7 +611,7 @@
 
                         
 
-                        <atom:link href="http://localhost:1313/content/alert/" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/content/alert/" hreflang="en-ca" rel="alternate" type="text/html"/>
                     
 
                     
@@ -675,19 +675,19 @@
 
                         
 
-                        <atom:link href="http://localhost:1313/layouts/cloud/atom.xml" hreflang="en-us" rel="alternate" type="application/atom+xml"/>
+                        <atom:link href="http://localhost:1313/layouts/cloud/atom.xml" hreflang="en-ca" rel="alternate" type="application/atom+xml"/>
                     
                         
 
                         
 
-                        <atom:link href="http://localhost:1313/layouts/cloud/atom.xml" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/layouts/cloud/atom.xml" hreflang="en-ca" rel="alternate" type="text/html"/>
                     
                         
 
                         
 
-                        <atom:link href="http://localhost:1313/layouts/cloud/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/>
+                        <atom:link href="http://localhost:1313/layouts/cloud/rss.xml" hreflang="en-ca" rel="alternate" type="application/rss+xml"/>
                     
 
                     
@@ -902,7 +902,7 @@
 
                         
 
-                        <atom:link href="http://localhost:1313/shortcodes/code/" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/shortcodes/code/" hreflang="en-ca" rel="alternate" type="text/html"/>
                     
 
                     
@@ -913,6 +913,72 @@
 
                     
                         <title>Code</title>
+                    
+                </item>
+            
+        
+            
+                <item>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    
+
+                    
+                        
+
+                        
+                            
+                        
+                    
+
+                    
+
+                    
+                        
+                    
+
+                    
+                    
+                    
+
+                    
+                        <author>example@example.com (Author Demo)</author>
+                    
+
+                    
+                        <description><![CDATA[CEO and founder of Carpos Clicks. Dan is constantly trying to improve his weak pickleball game]]></description>
+                    
+
+                    
+                        <guid isPermaLink="false">tag:localhost:1313,0001-01-01:/our-team/dan/</guid>
+                    
+
+                    
+                        <link>http://localhost:1313/our-team/dan/</link>
+                    
+
+                    
+                        
+
+                        
+
+                        <atom:link href="http://localhost:1313/our-team/dan/" hreflang="en-ca" rel="alternate" type="text/html"/>
+                    
+
+                    
+
+                    
+                        <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+                    
+
+                    
+                        <title>Daniel Carpenter</title>
                     
                 </item>
             
@@ -966,7 +1032,7 @@
 
                         
 
-                        <atom:link href="http://localhost:1313/shortcodes/email/" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/shortcodes/email/" hreflang="en-ca" rel="alternate" type="text/html"/>
                     
 
                     
@@ -1036,7 +1102,7 @@ is a useful reference for emoji shorthand codes.</p><hr><p><strong>N.B.</strong>
 
                         
 
-                        <atom:link href="http://localhost:1313/content/emoji-support/" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/content/emoji-support/" hreflang="en-ca" rel="alternate" type="text/html"/>
                     
 
                     
@@ -1266,7 +1332,7 @@ is a useful reference for emoji shorthand codes.</p><hr><p><strong>N.B.</strong>
 
                         
 
-                        <atom:link href="http://localhost:1313/shortcodes/figure/" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/shortcodes/figure/" hreflang="en-ca" rel="alternate" type="text/html"/>
                     
 
                     
@@ -1453,7 +1519,7 @@ is a useful reference for emoji shorthand codes.</p><hr><p><strong>N.B.</strong>
 
                         
 
-                        <atom:link href="http://localhost:1313/shortcodes/gallery/" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/shortcodes/gallery/" hreflang="en-ca" rel="alternate" type="text/html"/>
                     
 
                     
@@ -1520,7 +1586,7 @@ is a useful reference for emoji shorthand codes.</p><hr><p><strong>N.B.</strong>
 
                         
 
-                        <atom:link href="http://localhost:1313/shortcodes/icon/" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/shortcodes/icon/" hreflang="en-ca" rel="alternate" type="text/html"/>
                     
 
                     
@@ -1591,7 +1657,7 @@ is a useful reference for emoji shorthand codes.</p><hr><p><strong>N.B.</strong>
 
                         
 
-                        <atom:link href="http://localhost:1313/shortcodes/image/" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/shortcodes/image/" hreflang="en-ca" rel="alternate" type="text/html"/>
                     
 
                     
@@ -1661,7 +1727,7 @@ is a useful reference for emoji shorthand codes.</p><hr><p><strong>N.B.</strong>
 
                         
 
-                        <atom:link href="https://willfaught.com/paige" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="https://willfaught.com/paige" hreflang="en-ca" rel="alternate" type="text/html"/>
                     
 
                     
@@ -1755,7 +1821,7 @@ during Gopherfest, November 18, 2015.&#160;<a href=http://localhost:1313/content
 
                         
 
-                        <atom:link href="http://localhost:1313/content/markdown-syntax/" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/content/markdown-syntax/" hreflang="en-ca" rel="alternate" type="text/html"/>
                     
 
                     
@@ -1825,7 +1891,7 @@ $$</p>]]></description>
 
                         
 
-                        <atom:link href="http://localhost:1313/content/math-typesetting/" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/content/math-typesetting/" hreflang="en-ca" rel="alternate" type="text/html"/>
                     
 
                     
@@ -1889,7 +1955,7 @@ $$</p>]]></description>
 
                         
 
-                        <atom:link href="http://localhost:1313/content/placeholder-text/" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/content/placeholder-text/" hreflang="en-ca" rel="alternate" type="text/html"/>
                     
 
                     
@@ -1973,7 +2039,7 @@ $$</p>]]></description>
 
                         
 
-                        <atom:link href="http://localhost:1313/shortcodes/quote/" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/shortcodes/quote/" hreflang="en-ca" rel="alternate" type="text/html"/>
                     
 
                     
@@ -3199,7 +3265,7 @@ EUPL version.
 
                         
 
-                        <atom:link href="http://localhost:1313/shortcodes/request/" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/shortcodes/request/" hreflang="en-ca" rel="alternate" type="text/html"/>
                     
 
                     
@@ -3265,7 +3331,7 @@ and a set of Simple Shortcodes that enable static and no-JS versions of various 
 
                         
 
-                        <atom:link href="http://localhost:1313/content/rich-content/" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/content/rich-content/" hreflang="en-ca" rel="alternate" type="text/html"/>
                     
 
                     
@@ -3333,7 +3399,7 @@ and a set of Simple Shortcodes that enable static and no-JS versions of various 
 
                         
 
-                        <atom:link href="http://localhost:1313/layouts/search/" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/layouts/search/" hreflang="en-ca" rel="alternate" type="text/html"/>
                     
 
                     
@@ -3404,7 +3470,7 @@ and a set of Simple Shortcodes that enable static and no-JS versions of various 
 </span></span><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>code</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span>
 </span></span><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>tabs</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>pane</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span>
 </span></span><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>tabs</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>panes</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span>
-</span></span><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>tabs</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-tabs><div class=paige-tab-buttons><ul class="mb-3 nav nav-tabs" role=tablist><li class=nav-item role=presentation><button aria-controls=paige-tabs-6-pane-1 aria-selected=true class="active nav-link" data-bs-target=#paige-tabs-6-pane-1 data-bs-toggle=tab id=paige-tabs-6-button-1 role=tab type=button>JSON</button></li><li class=nav-item role=presentation><button aria-controls=paige-tabs-6-pane-2 aria-selected=false class=nav-link data-bs-target=#paige-tabs-6-pane-2 data-bs-toggle=tab id=paige-tabs-6-button-2 role=tab type=button>TOML</button></li><li class=nav-item role=presentation><button aria-controls=paige-tabs-6-pane-3 aria-selected=false class=nav-link data-bs-target=#paige-tabs-6-pane-3 data-bs-toggle=tab id=paige-tabs-6-button-3 role=tab type=button>YAML</button></li></ul></div><div class=paige-tab-panes><div class=tab-content><div aria-labelledby=paige-tabs-6-button-1 class="active fade show tab-pane" id=paige-tabs-6-pane-1 role=tabpanel tabindex=0><div class=paige-shortcode-code><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-json data-lang=json><span style=display:flex><span><span style=color:#1f2328>{</span><span style=color:#0550ae>&#34;foo&#34;</span><span style=color:#1f2328>:</span> <span style=color:#0550ae>123</span><span style=color:#1f2328>}</span></span></span></code></pre></div></div></div><div aria-labelledby=paige-tabs-6-button-2 class="fade tab-pane" id=paige-tabs-6-pane-2 role=tabpanel tabindex=0><div class=paige-shortcode-code><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-toml data-lang=toml><span style=display:flex><span><span style=color:#1f2328>foo</span> <span style=color:#1f2328>=</span> <span style=color:#0550ae>123</span></span></span></code></pre></div></div></div><div aria-labelledby=paige-tabs-6-button-3 class="fade tab-pane" id=paige-tabs-6-pane-3 role=tabpanel tabindex=0><div class=paige-shortcode-code><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-yaml data-lang=yaml><span style=display:flex><span><span style=color:#0550ae>foo</span><span style=color:#1f2328>:</span><span style=color:#fff> </span><span style=color:#0550ae>123</span></span></span></code></pre></div></div></div></div></div></div><h2 id=figure>Figure</h2><p>Code:</p><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go-html-template data-lang=go-html-template><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>figure</span><span style=color:#fff> </span><span style=color:#1f2328>caption</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;Tabs&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span>
+</span></span><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>tabs</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-tabs><div class=paige-tab-buttons><ul class="mb-3 nav nav-tabs" role=tablist><li class=nav-item role=presentation><button aria-controls=paige-tabs-18-pane-1 aria-selected=true class="active nav-link" data-bs-target=#paige-tabs-18-pane-1 data-bs-toggle=tab id=paige-tabs-18-button-1 role=tab type=button>JSON</button></li><li class=nav-item role=presentation><button aria-controls=paige-tabs-18-pane-2 aria-selected=false class=nav-link data-bs-target=#paige-tabs-18-pane-2 data-bs-toggle=tab id=paige-tabs-18-button-2 role=tab type=button>TOML</button></li><li class=nav-item role=presentation><button aria-controls=paige-tabs-18-pane-3 aria-selected=false class=nav-link data-bs-target=#paige-tabs-18-pane-3 data-bs-toggle=tab id=paige-tabs-18-button-3 role=tab type=button>YAML</button></li></ul></div><div class=paige-tab-panes><div class=tab-content><div aria-labelledby=paige-tabs-18-button-1 class="active fade show tab-pane" id=paige-tabs-18-pane-1 role=tabpanel tabindex=0><div class=paige-shortcode-code><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-json data-lang=json><span style=display:flex><span><span style=color:#1f2328>{</span><span style=color:#0550ae>&#34;foo&#34;</span><span style=color:#1f2328>:</span> <span style=color:#0550ae>123</span><span style=color:#1f2328>}</span></span></span></code></pre></div></div></div><div aria-labelledby=paige-tabs-18-button-2 class="fade tab-pane" id=paige-tabs-18-pane-2 role=tabpanel tabindex=0><div class=paige-shortcode-code><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-toml data-lang=toml><span style=display:flex><span><span style=color:#1f2328>foo</span> <span style=color:#1f2328>=</span> <span style=color:#0550ae>123</span></span></span></code></pre></div></div></div><div aria-labelledby=paige-tabs-18-button-3 class="fade tab-pane" id=paige-tabs-18-pane-3 role=tabpanel tabindex=0><div class=paige-shortcode-code><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-yaml data-lang=yaml><span style=display:flex><span><span style=color:#0550ae>foo</span><span style=color:#1f2328>:</span><span style=color:#fff> </span><span style=color:#0550ae>123</span></span></span></code></pre></div></div></div></div></div></div><h2 id=figure>Figure</h2><p>Code:</p><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go-html-template data-lang=go-html-template><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>figure</span><span style=color:#fff> </span><span style=color:#1f2328>caption</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;Tabs&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span>
 </span></span><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>tabs</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span>
 </span></span><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>tabs</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>buttons</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span>
 </span></span><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>tabs</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>button</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span>JSON<span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>tabs</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>button</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span>
@@ -3429,7 +3495,7 @@ and a set of Simple Shortcodes that enable static and no-JS versions of various 
 </span></span><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>tabs</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>pane</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span>
 </span></span><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>tabs</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>panes</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span>
 </span></span><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>tabs</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span>
-</span></span><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>figure</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-shortcode-figure><div class="align-items-center d-flex h-100 justify-content-center"><figure class=mb-0><div class="d-flex justify-content-center text-center"><div class=paige-tabs><div class=paige-tab-buttons><ul class="mb-3 nav nav-tabs" role=tablist><li class=nav-item role=presentation><button aria-controls=paige-tabs-7-pane-1 aria-selected=true class="active nav-link" data-bs-target=#paige-tabs-7-pane-1 data-bs-toggle=tab id=paige-tabs-7-button-1 role=tab type=button>JSON</button></li><li class=nav-item role=presentation><button aria-controls=paige-tabs-7-pane-2 aria-selected=false class=nav-link data-bs-target=#paige-tabs-7-pane-2 data-bs-toggle=tab id=paige-tabs-7-button-2 role=tab type=button>TOML</button></li><li class=nav-item role=presentation><button aria-controls=paige-tabs-7-pane-3 aria-selected=false class=nav-link data-bs-target=#paige-tabs-7-pane-3 data-bs-toggle=tab id=paige-tabs-7-button-3 role=tab type=button>YAML</button></li></ul></div><div class=paige-tab-panes><div class=tab-content><div aria-labelledby=paige-tabs-7-button-1 class="active fade show tab-pane" id=paige-tabs-7-pane-1 role=tabpanel tabindex=0><div class=paige-shortcode-code><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-json data-lang=json><span style=display:flex><span><span style=color:#1f2328>{</span><span style=color:#0550ae>&#34;foo&#34;</span><span style=color:#1f2328>:</span> <span style=color:#0550ae>123</span><span style=color:#1f2328>}</span></span></span></code></pre></div></div></div><div aria-labelledby=paige-tabs-7-button-2 class="fade tab-pane" id=paige-tabs-7-pane-2 role=tabpanel tabindex=0><div class=paige-shortcode-code><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-toml data-lang=toml><span style=display:flex><span><span style=color:#1f2328>foo</span> <span style=color:#1f2328>=</span> <span style=color:#0550ae>123</span></span></span></code></pre></div></div></div><div aria-labelledby=paige-tabs-7-button-3 class="fade tab-pane" id=paige-tabs-7-pane-3 role=tabpanel tabindex=0><div class=paige-shortcode-code><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-yaml data-lang=yaml><span style=display:flex><span><span style=color:#0550ae>foo</span><span style=color:#1f2328>:</span><span style=color:#fff> </span><span style=color:#0550ae>123</span></span></span></code></pre></div></div></div></div></div></div></div><figcaption class="figure-caption mt-2 text-center">Tabs</figcaption></figure></div></div>]]></description>
+</span></span><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>figure</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-shortcode-figure><div class="align-items-center d-flex h-100 justify-content-center"><figure class=mb-0><div class="d-flex justify-content-center text-center"><div class=paige-tabs><div class=paige-tab-buttons><ul class="mb-3 nav nav-tabs" role=tablist><li class=nav-item role=presentation><button aria-controls=paige-tabs-19-pane-1 aria-selected=true class="active nav-link" data-bs-target=#paige-tabs-19-pane-1 data-bs-toggle=tab id=paige-tabs-19-button-1 role=tab type=button>JSON</button></li><li class=nav-item role=presentation><button aria-controls=paige-tabs-19-pane-2 aria-selected=false class=nav-link data-bs-target=#paige-tabs-19-pane-2 data-bs-toggle=tab id=paige-tabs-19-button-2 role=tab type=button>TOML</button></li><li class=nav-item role=presentation><button aria-controls=paige-tabs-19-pane-3 aria-selected=false class=nav-link data-bs-target=#paige-tabs-19-pane-3 data-bs-toggle=tab id=paige-tabs-19-button-3 role=tab type=button>YAML</button></li></ul></div><div class=paige-tab-panes><div class=tab-content><div aria-labelledby=paige-tabs-19-button-1 class="active fade show tab-pane" id=paige-tabs-19-pane-1 role=tabpanel tabindex=0><div class=paige-shortcode-code><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-json data-lang=json><span style=display:flex><span><span style=color:#1f2328>{</span><span style=color:#0550ae>&#34;foo&#34;</span><span style=color:#1f2328>:</span> <span style=color:#0550ae>123</span><span style=color:#1f2328>}</span></span></span></code></pre></div></div></div><div aria-labelledby=paige-tabs-19-button-2 class="fade tab-pane" id=paige-tabs-19-pane-2 role=tabpanel tabindex=0><div class=paige-shortcode-code><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-toml data-lang=toml><span style=display:flex><span><span style=color:#1f2328>foo</span> <span style=color:#1f2328>=</span> <span style=color:#0550ae>123</span></span></span></code></pre></div></div></div><div aria-labelledby=paige-tabs-19-button-3 class="fade tab-pane" id=paige-tabs-19-pane-3 role=tabpanel tabindex=0><div class=paige-shortcode-code><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-yaml data-lang=yaml><span style=display:flex><span><span style=color:#0550ae>foo</span><span style=color:#1f2328>:</span><span style=color:#fff> </span><span style=color:#0550ae>123</span></span></span></code></pre></div></div></div></div></div></div></div><figcaption class="figure-caption mt-2 text-center">Tabs</figcaption></figure></div></div>]]></description>
                     
 
                     
@@ -3445,7 +3511,7 @@ and a set of Simple Shortcodes that enable static and no-JS versions of various 
 
                         
 
-                        <atom:link href="http://localhost:1313/shortcodes/tabs/" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/shortcodes/tabs/" hreflang="en-ca" rel="alternate" type="text/html"/>
                     
 
                     
@@ -3511,7 +3577,7 @@ and a set of Simple Shortcodes that enable static and no-JS versions of various 
 
                         
 
-                        <atom:link href="http://localhost:1313/shortcodes/vimeo/" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/shortcodes/vimeo/" hreflang="en-ca" rel="alternate" type="text/html"/>
                     
 
                     
@@ -3559,9 +3625,9 @@ and a set of Simple Shortcodes that enable static and no-JS versions of various 
                     
 
                     
-                        <description><![CDATA[<p>The <code>paige/youtube</code> shortcode plays a YouTube video.</p><h2 id=basic>Basic</h2><p>Code:</p><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go-html-template data-lang=go-html-template><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>youtube</span><span style=color:#fff> </span><span style=color:#0a3069>&#34;dQw4w9WgXcQ&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-shortcode-youtube><div class="paige-video ratio ratio-16x9"><iframe allowfullscreen referrerpolicy=no-referrer-when-downgrade src="https://www.youtube.com/embed/dQw4w9WgXcQ?hl=en-us&amp;modestbranding=1" title="YouTube video"></iframe></div></div><h2 id=autoplay-parameter>Autoplay parameter</h2><p>Code:</p><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go-html-template data-lang=go-html-template><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>youtube</span><span style=color:#fff> </span><span style=color:#1f2328>autoplay</span><span style=color:#0550ae>=</span><span style=color:#cf222e>true</span><span style=color:#fff> </span><span style=color:#1f2328>video</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;dQw4w9WgXcQ&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-shortcode-youtube><div class="paige-video ratio ratio-16x9"><iframe allowfullscreen referrerpolicy=no-referrer-when-downgrade src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1&amp;hl=en-us&amp;modestbranding=1&amp;mute=1" title="YouTube video"></iframe></div></div><h2 id=controls-parameter>Controls parameter</h2><p>Code:</p><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go-html-template data-lang=go-html-template><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>youtube</span><span style=color:#fff> </span><span style=color:#1f2328>controls</span><span style=color:#0550ae>=</span><span style=color:#cf222e>true</span><span style=color:#fff> </span><span style=color:#1f2328>video</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;dQw4w9WgXcQ&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-shortcode-youtube><div class="paige-video ratio ratio-16x9"><iframe allowfullscreen referrerpolicy=no-referrer-when-downgrade src="https://www.youtube.com/embed/dQw4w9WgXcQ?hl=en-us&amp;modestbranding=1" title="YouTube video"></iframe></div></div><h2 id=description-parameter>Description parameter</h2><p>Code:</p><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go-html-template data-lang=go-html-template><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>youtube</span><span style=color:#fff> </span><span style=color:#1f2328>description</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;My title&#34;</span><span style=color:#fff> </span><span style=color:#1f2328>video</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;dQw4w9WgXcQ&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-shortcode-youtube><div class="paige-video ratio ratio-16x9"><iframe allowfullscreen referrerpolicy=no-referrer-when-downgrade src="https://www.youtube.com/embed/dQw4w9WgXcQ?hl=en-us&amp;modestbranding=1" title="My title"></iframe></div></div><h2 id=end-parameter>End parameter</h2><p>Code:</p><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go-html-template data-lang=go-html-template><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>youtube</span><span style=color:#fff> </span><span style=color:#cf222e>end</span><span style=color:#0550ae>=</span><span style=color:#1f2328>20</span><span style=color:#fff> </span><span style=color:#1f2328>video</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;dQw4w9WgXcQ&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-shortcode-youtube><div class="paige-video ratio ratio-16x9"><iframe allowfullscreen referrerpolicy=no-referrer-when-downgrade src="https://www.youtube.com/embed/dQw4w9WgXcQ?end=20&amp;hl=en-us&amp;modestbranding=1" title="YouTube video"></iframe></div></div><h2 id=fullscreen-parameter>Fullscreen parameter</h2><p>Code:</p><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go-html-template data-lang=go-html-template><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>youtube</span><span style=color:#fff> </span><span style=color:#1f2328>fullscreen</span><span style=color:#0550ae>=</span><span style=color:#cf222e>false</span><span style=color:#fff> </span><span style=color:#1f2328>video</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;dQw4w9WgXcQ&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-shortcode-youtube><div class="paige-video ratio ratio-16x9"><iframe referrerpolicy=no-referrer-when-downgrade src="https://www.youtube.com/embed/dQw4w9WgXcQ?fs=0&amp;hl=en-us&amp;modestbranding=1" title="YouTube video"></iframe></div></div><h2 id=height-parameter>Height parameter</h2><p>Code:</p><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go-html-template data-lang=go-html-template><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>youtube</span><span style=color:#fff> </span><span style=color:#1f2328>height</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;10rem&#34;</span><span style=color:#fff> </span><span style=color:#1f2328>video</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;dQw4w9WgXcQ&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-shortcode-youtube><div class="paige-video ratio ratio-16x9" style=height:10rem><iframe allowfullscreen referrerpolicy=no-referrer-when-downgrade src="https://www.youtube.com/embed/dQw4w9WgXcQ?hl=en-us&amp;modestbranding=1" title="YouTube video"></iframe></div></div><h2 id=list-parameter>List parameter</h2><p>Code:</p><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go-html-template data-lang=go-html-template><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>youtube</span><span style=color:#fff> </span><span style=color:#1f2328>list</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;PLOstxpSiJGlClyRnCiubdXJcUvwgHcrVH&#34;</span><span style=color:#fff> </span><span style=color:#1f2328>video</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;dQw4w9WgXcQ&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-shortcode-youtube><div class="paige-video ratio ratio-16x9"><iframe allowfullscreen referrerpolicy=no-referrer-when-downgrade src="https://www.youtube.com/embed?list=PLOstxpSiJGlClyRnCiubdXJcUvwgHcrVH&amp;listtype=playlist?hl=en-us&amp;modestbranding=1" title="YouTube video"></iframe></div></div><h2 id=loop-parameter>Loop parameter</h2><p>Code:</p><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go-html-template data-lang=go-html-template><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>youtube</span><span style=color:#fff> </span><span style=color:#1f2328>loop</span><span style=color:#0550ae>=</span><span style=color:#cf222e>true</span><span style=color:#fff> </span><span style=color:#1f2328>video</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;dQw4w9WgXcQ&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-shortcode-youtube><div class="paige-video ratio ratio-16x9"><iframe allowfullscreen referrerpolicy=no-referrer-when-downgrade src="https://www.youtube.com/embed/dQw4w9WgXcQ?hl=en-us&amp;loop=1&amp;modestbranding=1&amp;playlist=dQw4w9WgXcQ" title="YouTube video"></iframe></div></div><h2 id=maxheight-parameter>Maxheight parameter</h2><p>Code:</p><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go-html-template data-lang=go-html-template><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>youtube</span><span style=color:#fff> </span><span style=color:#1f2328>maxheight</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;10rem&#34;</span><span style=color:#fff> </span><span style=color:#1f2328>video</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;dQw4w9WgXcQ&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-shortcode-youtube><div class="paige-video ratio ratio-16x9" style=max-height:10rem><iframe allowfullscreen referrerpolicy=no-referrer-when-downgrade src="https://www.youtube.com/embed/dQw4w9WgXcQ?hl=en-us&amp;modestbranding=1" title="YouTube video"></iframe></div></div><h2 id=maxwidth-parameter>Maxwidth parameter</h2><p>Code:</p><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go-html-template data-lang=go-html-template><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>youtube</span><span style=color:#fff> </span><span style=color:#1f2328>maxwidth</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;50%&#34;</span><span style=color:#fff> </span><span style=color:#1f2328>video</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;dQw4w9WgXcQ&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-shortcode-youtube><div class="paige-video ratio ratio-16x9" style=max-width:50%><iframe allowfullscreen referrerpolicy=no-referrer-when-downgrade src="https://www.youtube.com/embed/dQw4w9WgXcQ?hl=en-us&amp;modestbranding=1" title="YouTube video"></iframe></div></div><h2 id=mute-parameter>Mute parameter</h2><p>Code:</p><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go-html-template data-lang=go-html-template><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>youtube</span><span style=color:#fff> </span><span style=color:#1f2328>mute</span><span style=color:#0550ae>=</span><span style=color:#cf222e>true</span><span style=color:#fff> </span><span style=color:#1f2328>video</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;dQw4w9WgXcQ&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-shortcode-youtube><div class="paige-video ratio ratio-16x9"><iframe allowfullscreen referrerpolicy=no-referrer-when-downgrade src="https://www.youtube.com/embed/dQw4w9WgXcQ?hl=en-us&amp;modestbranding=1&amp;mute=1" title="YouTube video"></iframe></div></div><h2 id=start-parameter>Start parameter</h2><p>Code:</p><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go-html-template data-lang=go-html-template><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>youtube</span><span style=color:#fff> </span><span style=color:#1f2328>start</span><span style=color:#0550ae>=</span><span style=color:#1f2328>10</span><span style=color:#fff> </span><span style=color:#1f2328>video</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;dQw4w9WgXcQ&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-shortcode-youtube><div class="paige-video ratio ratio-16x9"><iframe allowfullscreen referrerpolicy=no-referrer-when-downgrade src="https://www.youtube.com/embed/dQw4w9WgXcQ?hl=en-us&amp;modestbranding=1&amp;start=10" title="YouTube video"></iframe></div></div><h2 id=video-parameter>Video parameter</h2><p>Code:</p><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go-html-template data-lang=go-html-template><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>youtube</span><span style=color:#fff> </span><span style=color:#1f2328>video</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;dQw4w9WgXcQ&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-shortcode-youtube><div class="paige-video ratio ratio-16x9"><iframe allowfullscreen referrerpolicy=no-referrer-when-downgrade src="https://www.youtube.com/embed/dQw4w9WgXcQ?hl=en-us&amp;modestbranding=1" title="YouTube video"></iframe></div></div><h2 id=width-parameter>Width parameter</h2><p>Code:</p><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go-html-template data-lang=go-html-template><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>youtube</span><span style=color:#fff> </span><span style=color:#1f2328>video</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;dQw4w9WgXcQ&#34;</span><span style=color:#fff> </span><span style=color:#1f2328>width</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;50%&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-shortcode-youtube><div class="paige-video ratio ratio-16x9" style=width:50%><iframe allowfullscreen referrerpolicy=no-referrer-when-downgrade src="https://www.youtube.com/embed/dQw4w9WgXcQ?hl=en-us&amp;modestbranding=1" title="YouTube video"></iframe></div></div><h2 id=figure>Figure</h2><p>Code:</p><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go-html-template data-lang=go-html-template><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>figure</span><span style=color:#fff> </span><span style=color:#1f2328>caption</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;YouTube&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span>
+                        <description><![CDATA[<p>The <code>paige/youtube</code> shortcode plays a YouTube video.</p><h2 id=basic>Basic</h2><p>Code:</p><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go-html-template data-lang=go-html-template><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>youtube</span><span style=color:#fff> </span><span style=color:#0a3069>&#34;dQw4w9WgXcQ&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-shortcode-youtube><div class="paige-video ratio ratio-16x9"><iframe allowfullscreen referrerpolicy=no-referrer-when-downgrade src="https://www.youtube.com/embed/dQw4w9WgXcQ?hl=en-ca&amp;modestbranding=1" title="YouTube video"></iframe></div></div><h2 id=autoplay-parameter>Autoplay parameter</h2><p>Code:</p><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go-html-template data-lang=go-html-template><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>youtube</span><span style=color:#fff> </span><span style=color:#1f2328>autoplay</span><span style=color:#0550ae>=</span><span style=color:#cf222e>true</span><span style=color:#fff> </span><span style=color:#1f2328>video</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;dQw4w9WgXcQ&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-shortcode-youtube><div class="paige-video ratio ratio-16x9"><iframe allowfullscreen referrerpolicy=no-referrer-when-downgrade src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1&amp;hl=en-ca&amp;modestbranding=1&amp;mute=1" title="YouTube video"></iframe></div></div><h2 id=controls-parameter>Controls parameter</h2><p>Code:</p><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go-html-template data-lang=go-html-template><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>youtube</span><span style=color:#fff> </span><span style=color:#1f2328>controls</span><span style=color:#0550ae>=</span><span style=color:#cf222e>true</span><span style=color:#fff> </span><span style=color:#1f2328>video</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;dQw4w9WgXcQ&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-shortcode-youtube><div class="paige-video ratio ratio-16x9"><iframe allowfullscreen referrerpolicy=no-referrer-when-downgrade src="https://www.youtube.com/embed/dQw4w9WgXcQ?hl=en-ca&amp;modestbranding=1" title="YouTube video"></iframe></div></div><h2 id=description-parameter>Description parameter</h2><p>Code:</p><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go-html-template data-lang=go-html-template><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>youtube</span><span style=color:#fff> </span><span style=color:#1f2328>description</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;My title&#34;</span><span style=color:#fff> </span><span style=color:#1f2328>video</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;dQw4w9WgXcQ&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-shortcode-youtube><div class="paige-video ratio ratio-16x9"><iframe allowfullscreen referrerpolicy=no-referrer-when-downgrade src="https://www.youtube.com/embed/dQw4w9WgXcQ?hl=en-ca&amp;modestbranding=1" title="My title"></iframe></div></div><h2 id=end-parameter>End parameter</h2><p>Code:</p><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go-html-template data-lang=go-html-template><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>youtube</span><span style=color:#fff> </span><span style=color:#cf222e>end</span><span style=color:#0550ae>=</span><span style=color:#1f2328>20</span><span style=color:#fff> </span><span style=color:#1f2328>video</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;dQw4w9WgXcQ&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-shortcode-youtube><div class="paige-video ratio ratio-16x9"><iframe allowfullscreen referrerpolicy=no-referrer-when-downgrade src="https://www.youtube.com/embed/dQw4w9WgXcQ?end=20&amp;hl=en-ca&amp;modestbranding=1" title="YouTube video"></iframe></div></div><h2 id=fullscreen-parameter>Fullscreen parameter</h2><p>Code:</p><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go-html-template data-lang=go-html-template><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>youtube</span><span style=color:#fff> </span><span style=color:#1f2328>fullscreen</span><span style=color:#0550ae>=</span><span style=color:#cf222e>false</span><span style=color:#fff> </span><span style=color:#1f2328>video</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;dQw4w9WgXcQ&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-shortcode-youtube><div class="paige-video ratio ratio-16x9"><iframe referrerpolicy=no-referrer-when-downgrade src="https://www.youtube.com/embed/dQw4w9WgXcQ?fs=0&amp;hl=en-ca&amp;modestbranding=1" title="YouTube video"></iframe></div></div><h2 id=height-parameter>Height parameter</h2><p>Code:</p><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go-html-template data-lang=go-html-template><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>youtube</span><span style=color:#fff> </span><span style=color:#1f2328>height</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;10rem&#34;</span><span style=color:#fff> </span><span style=color:#1f2328>video</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;dQw4w9WgXcQ&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-shortcode-youtube><div class="paige-video ratio ratio-16x9" style=height:10rem><iframe allowfullscreen referrerpolicy=no-referrer-when-downgrade src="https://www.youtube.com/embed/dQw4w9WgXcQ?hl=en-ca&amp;modestbranding=1" title="YouTube video"></iframe></div></div><h2 id=list-parameter>List parameter</h2><p>Code:</p><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go-html-template data-lang=go-html-template><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>youtube</span><span style=color:#fff> </span><span style=color:#1f2328>list</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;PLOstxpSiJGlClyRnCiubdXJcUvwgHcrVH&#34;</span><span style=color:#fff> </span><span style=color:#1f2328>video</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;dQw4w9WgXcQ&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-shortcode-youtube><div class="paige-video ratio ratio-16x9"><iframe allowfullscreen referrerpolicy=no-referrer-when-downgrade src="https://www.youtube.com/embed?list=PLOstxpSiJGlClyRnCiubdXJcUvwgHcrVH&amp;listtype=playlist?hl=en-ca&amp;modestbranding=1" title="YouTube video"></iframe></div></div><h2 id=loop-parameter>Loop parameter</h2><p>Code:</p><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go-html-template data-lang=go-html-template><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>youtube</span><span style=color:#fff> </span><span style=color:#1f2328>loop</span><span style=color:#0550ae>=</span><span style=color:#cf222e>true</span><span style=color:#fff> </span><span style=color:#1f2328>video</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;dQw4w9WgXcQ&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-shortcode-youtube><div class="paige-video ratio ratio-16x9"><iframe allowfullscreen referrerpolicy=no-referrer-when-downgrade src="https://www.youtube.com/embed/dQw4w9WgXcQ?hl=en-ca&amp;loop=1&amp;modestbranding=1&amp;playlist=dQw4w9WgXcQ" title="YouTube video"></iframe></div></div><h2 id=maxheight-parameter>Maxheight parameter</h2><p>Code:</p><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go-html-template data-lang=go-html-template><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>youtube</span><span style=color:#fff> </span><span style=color:#1f2328>maxheight</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;10rem&#34;</span><span style=color:#fff> </span><span style=color:#1f2328>video</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;dQw4w9WgXcQ&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-shortcode-youtube><div class="paige-video ratio ratio-16x9" style=max-height:10rem><iframe allowfullscreen referrerpolicy=no-referrer-when-downgrade src="https://www.youtube.com/embed/dQw4w9WgXcQ?hl=en-ca&amp;modestbranding=1" title="YouTube video"></iframe></div></div><h2 id=maxwidth-parameter>Maxwidth parameter</h2><p>Code:</p><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go-html-template data-lang=go-html-template><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>youtube</span><span style=color:#fff> </span><span style=color:#1f2328>maxwidth</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;50%&#34;</span><span style=color:#fff> </span><span style=color:#1f2328>video</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;dQw4w9WgXcQ&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-shortcode-youtube><div class="paige-video ratio ratio-16x9" style=max-width:50%><iframe allowfullscreen referrerpolicy=no-referrer-when-downgrade src="https://www.youtube.com/embed/dQw4w9WgXcQ?hl=en-ca&amp;modestbranding=1" title="YouTube video"></iframe></div></div><h2 id=mute-parameter>Mute parameter</h2><p>Code:</p><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go-html-template data-lang=go-html-template><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>youtube</span><span style=color:#fff> </span><span style=color:#1f2328>mute</span><span style=color:#0550ae>=</span><span style=color:#cf222e>true</span><span style=color:#fff> </span><span style=color:#1f2328>video</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;dQw4w9WgXcQ&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-shortcode-youtube><div class="paige-video ratio ratio-16x9"><iframe allowfullscreen referrerpolicy=no-referrer-when-downgrade src="https://www.youtube.com/embed/dQw4w9WgXcQ?hl=en-ca&amp;modestbranding=1&amp;mute=1" title="YouTube video"></iframe></div></div><h2 id=start-parameter>Start parameter</h2><p>Code:</p><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go-html-template data-lang=go-html-template><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>youtube</span><span style=color:#fff> </span><span style=color:#1f2328>start</span><span style=color:#0550ae>=</span><span style=color:#1f2328>10</span><span style=color:#fff> </span><span style=color:#1f2328>video</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;dQw4w9WgXcQ&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-shortcode-youtube><div class="paige-video ratio ratio-16x9"><iframe allowfullscreen referrerpolicy=no-referrer-when-downgrade src="https://www.youtube.com/embed/dQw4w9WgXcQ?hl=en-ca&amp;modestbranding=1&amp;start=10" title="YouTube video"></iframe></div></div><h2 id=video-parameter>Video parameter</h2><p>Code:</p><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go-html-template data-lang=go-html-template><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>youtube</span><span style=color:#fff> </span><span style=color:#1f2328>video</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;dQw4w9WgXcQ&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-shortcode-youtube><div class="paige-video ratio ratio-16x9"><iframe allowfullscreen referrerpolicy=no-referrer-when-downgrade src="https://www.youtube.com/embed/dQw4w9WgXcQ?hl=en-ca&amp;modestbranding=1" title="YouTube video"></iframe></div></div><h2 id=width-parameter>Width parameter</h2><p>Code:</p><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go-html-template data-lang=go-html-template><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>youtube</span><span style=color:#fff> </span><span style=color:#1f2328>video</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;dQw4w9WgXcQ&#34;</span><span style=color:#fff> </span><span style=color:#1f2328>width</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;50%&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-shortcode-youtube><div class="paige-video ratio ratio-16x9" style=width:50%><iframe allowfullscreen referrerpolicy=no-referrer-when-downgrade src="https://www.youtube.com/embed/dQw4w9WgXcQ?hl=en-ca&amp;modestbranding=1" title="YouTube video"></iframe></div></div><h2 id=figure>Figure</h2><p>Code:</p><div class=highlight><pre tabindex=0 style=background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go-html-template data-lang=go-html-template><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>figure</span><span style=color:#fff> </span><span style=color:#1f2328>caption</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;YouTube&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span>
 </span></span><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>youtube</span><span style=color:#fff> </span><span style=color:#1f2328>video</span><span style=color:#0550ae>=</span><span style=color:#0a3069>&#34;dQw4w9WgXcQ&#34;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span>
-</span></span><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>figure</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-shortcode-figure><div class="align-items-center d-flex h-100 justify-content-center"><figure class=mb-0><div class="d-flex justify-content-center text-center"><div class=paige-shortcode-youtube><div class="paige-video ratio ratio-16x9"><iframe allowfullscreen referrerpolicy=no-referrer-when-downgrade src="https://www.youtube.com/embed/dQw4w9WgXcQ?hl=en-us&amp;modestbranding=1" title="YouTube video"></iframe></div></div></div><figcaption class="figure-caption mt-2 text-center">YouTube</figcaption></figure></div></div>]]></description>
+</span></span><span style=display:flex><span><span style=color:#57606a>{{</span><span style=color:#f6f8fa;background-color:#82071e>&lt;</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>paige</span><span style=color:#f6f8fa;background-color:#82071e>/</span><span style=color:#1f2328>figure</span><span style=color:#fff> </span><span style=color:#f6f8fa;background-color:#82071e>&gt;</span><span style=color:#57606a>}}</span></span></span></code></pre></div><p>Result:</p><div class=paige-shortcode-figure><div class="align-items-center d-flex h-100 justify-content-center"><figure class=mb-0><div class="d-flex justify-content-center text-center"><div class=paige-shortcode-youtube><div class="paige-video ratio ratio-16x9"><iframe allowfullscreen referrerpolicy=no-referrer-when-downgrade src="https://www.youtube.com/embed/dQw4w9WgXcQ?hl=en-ca&amp;modestbranding=1" title="YouTube video"></iframe></div></div></div><figcaption class="figure-caption mt-2 text-center">YouTube</figcaption></figure></div></div>]]></description>
                     
 
                     
@@ -3577,7 +3643,7 @@ and a set of Simple Shortcodes that enable static and no-JS versions of various 
 
                         
 
-                        <atom:link href="http://localhost:1313/shortcodes/youtube/" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/shortcodes/youtube/" hreflang="en-ca" rel="alternate" type="text/html"/>
                     
 
                     

@@ -35,7 +35,7 @@
 
 <?xml version="1.0" encoding="utf-8"?>
 
-<feed  xml:lang="en-us"  xmlns="http://www.w3.org/2005/Atom">
+<feed  xml:lang="en-ca"  xmlns="http://www.w3.org/2005/Atom">
     
         <author>
             
@@ -61,21 +61,21 @@
     
 
     
-        <link href="http://localhost:1313/content/atom.xml" hreflang="en-us" rel="self" type="application/atom+xml"/>
+        <link href="http://localhost:1313/content/atom.xml" hreflang="en-ca" rel="self" type="application/atom+xml"/>
     
 
     
         
 
-        <link href="http://localhost:1313/content/atom.xml" hreflang="en-us" rel="alternate" type="application/atom+xml"/>
+        <link href="http://localhost:1313/content/atom.xml" hreflang="en-ca" rel="alternate" type="application/atom+xml"/>
     
         
 
-        <link href="http://localhost:1313/content/" hreflang="en-us" rel="alternate" type="text/html"/>
+        <link href="http://localhost:1313/content/" hreflang="en-ca" rel="alternate" type="text/html"/>
     
         
 
-        <link href="http://localhost:1313/content/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/>
+        <link href="http://localhost:1313/content/rss.xml" hreflang="en-ca" rel="alternate" type="application/rss+xml"/>
     
 
     
@@ -85,7 +85,7 @@
     
 
     
-        <rights type="html"><![CDATA[© Carpo&rsquo;s Clicks]]></rights>
+        <rights type="html"><![CDATA[© Carpo&rsquo;s Clicks 360 Photobooth]]></rights>
     
 
     
@@ -156,7 +156,7 @@
 
                     
 
-                    <link href="http://localhost:1313/content/alert/" hreflang="en-us" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:1313/content/alert/" hreflang="en-ca" rel="alternate" type="text/html"/>
                 
 
                 
@@ -166,7 +166,7 @@
                 
 
                 
-                    <rights type="html"><![CDATA[© Carpo&rsquo;s Clicks]]></rights>
+                    <rights type="html"><![CDATA[© Carpo&rsquo;s Clicks 360 Photobooth]]></rights>
                 
 
                 
@@ -241,7 +241,7 @@ is a useful reference for emoji shorthand codes.</p><hr><p><strong>N.B.</strong>
 
                     
 
-                    <link href="http://localhost:1313/content/emoji-support/" hreflang="en-us" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:1313/content/emoji-support/" hreflang="en-ca" rel="alternate" type="text/html"/>
                 
 
                 
@@ -251,7 +251,7 @@ is a useful reference for emoji shorthand codes.</p><hr><p><strong>N.B.</strong>
                 
 
                 
-                    <rights type="html"><![CDATA[© Carpo&rsquo;s Clicks]]></rights>
+                    <rights type="html"><![CDATA[© Carpo&rsquo;s Clicks 360 Photobooth]]></rights>
                 
 
                 
@@ -326,7 +326,7 @@ is a useful reference for emoji shorthand codes.</p><hr><p><strong>N.B.</strong>
 
                     
 
-                    <link href="https://willfaught.com/paige" hreflang="en-us" rel="alternate" type="text/html"/>
+                    <link href="https://willfaught.com/paige" hreflang="en-ca" rel="alternate" type="text/html"/>
                 
 
                 
@@ -336,7 +336,7 @@ is a useful reference for emoji shorthand codes.</p><hr><p><strong>N.B.</strong>
                 
 
                 
-                    <rights type="html"><![CDATA[© Carpo&rsquo;s Clicks]]></rights>
+                    <rights type="html"><![CDATA[© Carpo&rsquo;s Clicks 360 Photobooth]]></rights>
                 
 
                 
@@ -435,7 +435,7 @@ during Gopherfest, November 18, 2015.&#160;<a href=http://localhost:1313/content
 
                     
 
-                    <link href="http://localhost:1313/content/markdown-syntax/" hreflang="en-us" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:1313/content/markdown-syntax/" hreflang="en-ca" rel="alternate" type="text/html"/>
                 
 
                 
@@ -445,7 +445,7 @@ during Gopherfest, November 18, 2015.&#160;<a href=http://localhost:1313/content
                 
 
                 
-                    <rights type="html"><![CDATA[© Carpo&rsquo;s Clicks]]></rights>
+                    <rights type="html"><![CDATA[© Carpo&rsquo;s Clicks 360 Photobooth]]></rights>
                 
 
                 
@@ -520,7 +520,7 @@ $$</p>]]></content>
 
                     
 
-                    <link href="http://localhost:1313/content/math-typesetting/" hreflang="en-us" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:1313/content/math-typesetting/" hreflang="en-ca" rel="alternate" type="text/html"/>
                 
 
                 
@@ -530,7 +530,7 @@ $$</p>]]></content>
                 
 
                 
-                    <rights type="html"><![CDATA[© Carpo&rsquo;s Clicks]]></rights>
+                    <rights type="html"><![CDATA[© Carpo&rsquo;s Clicks 360 Photobooth]]></rights>
                 
 
                 
@@ -599,7 +599,7 @@ $$</p>]]></content>
 
                     
 
-                    <link href="http://localhost:1313/content/placeholder-text/" hreflang="en-us" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:1313/content/placeholder-text/" hreflang="en-ca" rel="alternate" type="text/html"/>
                 
 
                 
@@ -609,7 +609,7 @@ $$</p>]]></content>
                 
 
                 
-                    <rights type="html"><![CDATA[© Carpo&rsquo;s Clicks]]></rights>
+                    <rights type="html"><![CDATA[© Carpo&rsquo;s Clicks 360 Photobooth]]></rights>
                 
 
                 
@@ -680,7 +680,7 @@ and a set of Simple Shortcodes that enable static and no-JS versions of various 
 
                     
 
-                    <link href="http://localhost:1313/content/rich-content/" hreflang="en-us" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:1313/content/rich-content/" hreflang="en-ca" rel="alternate" type="text/html"/>
                 
 
                 
@@ -690,7 +690,7 @@ and a set of Simple Shortcodes that enable static and no-JS versions of various 
                 
 
                 
-                    <rights type="html"><![CDATA[© Carpo&rsquo;s Clicks]]></rights>
+                    <rights type="html"><![CDATA[© Carpo&rsquo;s Clicks 360 Photobooth]]></rights>
                 
 
                 

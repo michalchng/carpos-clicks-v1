@@ -41,7 +41,7 @@
 
 <?xml version="1.0" encoding="utf-8"?>
 
-<feed  xml:lang="en-us"  xmlns="http://www.w3.org/2005/Atom">
+<feed  xml:lang="en-ca"  xmlns="http://www.w3.org/2005/Atom">
     
         <author>
             
@@ -67,21 +67,21 @@
     
 
     
-        <link href="http://localhost:1313/tags/sections/atom.xml" hreflang="en-us" rel="self" type="application/atom+xml"/>
+        <link href="http://localhost:1313/tags/sections/atom.xml" hreflang="en-ca" rel="self" type="application/atom+xml"/>
     
 
     
         
 
-        <link href="http://localhost:1313/tags/sections/atom.xml" hreflang="en-us" rel="alternate" type="application/atom+xml"/>
+        <link href="http://localhost:1313/tags/sections/atom.xml" hreflang="en-ca" rel="alternate" type="application/atom+xml"/>
     
         
 
-        <link href="http://localhost:1313/tags/sections/" hreflang="en-us" rel="alternate" type="text/html"/>
+        <link href="http://localhost:1313/tags/sections/" hreflang="en-ca" rel="alternate" type="text/html"/>
     
         
 
-        <link href="http://localhost:1313/tags/sections/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/>
+        <link href="http://localhost:1313/tags/sections/rss.xml" hreflang="en-ca" rel="alternate" type="application/rss+xml"/>
     
 
     
@@ -91,7 +91,7 @@
     
 
     
-        <rights type="html"><![CDATA[© Carpo&rsquo;s Clicks]]></rights>
+        <rights type="html"><![CDATA[© Carpo&rsquo;s Clicks 360 Photobooth]]></rights>
     
 
     
@@ -244,19 +244,19 @@
 
                     
 
-                    <link href="http://localhost:1313/customizations/atom.xml" hreflang="en-us" rel="alternate" type="application/atom+xml"/>
+                    <link href="http://localhost:1313/customizations/atom.xml" hreflang="en-ca" rel="alternate" type="application/atom+xml"/>
                 
                     
 
                     
 
-                    <link href="http://localhost:1313/customizations/atom.xml" hreflang="en-us" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:1313/customizations/atom.xml" hreflang="en-ca" rel="alternate" type="text/html"/>
                 
                     
 
                     
 
-                    <link href="http://localhost:1313/customizations/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/>
+                    <link href="http://localhost:1313/customizations/rss.xml" hreflang="en-ca" rel="alternate" type="application/rss+xml"/>
                 
 
                 
@@ -266,7 +266,7 @@
                 
 
                 
-                    <rights type="html"><![CDATA[© Carpo&rsquo;s Clicks]]></rights>
+                    <rights type="html"><![CDATA[© Carpo&rsquo;s Clicks 360 Photobooth]]></rights>
                 
 
                 

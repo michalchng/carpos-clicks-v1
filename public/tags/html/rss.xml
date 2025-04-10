@@ -40,16 +40,16 @@
 
 <?xml version="1.0" encoding="utf-8"?>
 
-<rss version="2.0"  xml:lang="en-us"  xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"  xml:lang="en-ca"  xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         
-            <copyright>© Carpo&rsquo;s Clicks</copyright>
+            <copyright>© Carpo&rsquo;s Clicks 360 Photobooth</copyright>
         
 
         
 
         
-            <language>en-us</language>
+            <language>en-ca</language>
         
 
         
@@ -61,21 +61,21 @@
         
 
         
-            <atom:link href="http://localhost:1313/tags/html/rss.xml" hreflang="en-us" rel="self" type="application/rss+xml"/>
+            <atom:link href="http://localhost:1313/tags/html/rss.xml" hreflang="en-ca" rel="self" type="application/rss+xml"/>
         
 
         
             
 
-            <atom:link href="http://localhost:1313/tags/html/atom.xml" hreflang="en-us" rel="alternate" type="application/atom+xml"/>
+            <atom:link href="http://localhost:1313/tags/html/atom.xml" hreflang="en-ca" rel="alternate" type="application/atom+xml"/>
         
             
 
-            <atom:link href="http://localhost:1313/tags/html/" hreflang="en-us" rel="alternate" type="text/html"/>
+            <atom:link href="http://localhost:1313/tags/html/" hreflang="en-ca" rel="alternate" type="text/html"/>
         
             
 
-            <atom:link href="http://localhost:1313/tags/html/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/>
+            <atom:link href="http://localhost:1313/tags/html/rss.xml" hreflang="en-ca" rel="alternate" type="application/rss+xml"/>
         
 
         
@@ -172,7 +172,7 @@ during Gopherfest, November 18, 2015.&#160;<a href=http://localhost:1313/content
 
                         
 
-                        <atom:link href="http://localhost:1313/content/markdown-syntax/" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/content/markdown-syntax/" hreflang="en-ca" rel="alternate" type="text/html"/>
                     
 
                     

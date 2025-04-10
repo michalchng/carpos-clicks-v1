@@ -74,6 +74,8 @@
   </url><url>
     <loc>http://localhost:1313/tags/css/</loc>
   </url><url>
+    <loc>http://localhost:1313/our-team/dan/</loc>
+  </url><url>
     <loc>http://localhost:1313/shortcodes/email/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/email/</loc>
@@ -118,7 +120,11 @@
   </url><url>
     <loc>http://localhost:1313/content/math-typesetting/</loc>
   </url><url>
+    <loc>http://localhost:1313/our-team/</loc>
+  </url><url>
     <loc>http://localhost:1313/content/placeholder-text/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pricing/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/privacy/</loc>
   </url><url>
