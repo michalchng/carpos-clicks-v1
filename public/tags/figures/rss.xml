@@ -53,7 +53,7 @@
         
 
         
-            <lastBuildDate>Mon, 18 Sep 2023 21:21:05 -0700</lastBuildDate>
+            <lastBuildDate>Mon, 01 Jan 0001 00:00:00 UTC</lastBuildDate>
         
 
         
@@ -109,8 +109,6 @@
                         
 
                         
-                            
-                        
                     
 
                     
@@ -121,8 +119,6 @@
                     
                     
 
-                    
-                        <author>example@example.com (Author Demo)</author>
                     
 
                     
@@ -324,7 +320,67 @@
                         
 
                         
-                            
+                    
+
+                    
+
+                    
+                        
+                    
+
+                    
+                    
+                    
+
+                    
+
+                    
+                        <description><![CDATA[CEO and founder of Carpos Clicks. Dan is constantly trying to improve his weak pickleball game]]></description>
+                    
+
+                    
+                        <guid isPermaLink="false">tag:localhost:1313,0001-01-01:/our-team/dan/</guid>
+                    
+
+                    
+                        <link>http://localhost:1313/our-team/dan/</link>
+                    
+
+                    
+                        
+
+                        
+
+                        <atom:link href="http://localhost:1313/our-team/dan/" hreflang="en-ca" rel="alternate" type="text/html"/>
+                    
+
+                    
+
+                    
+                        <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+                    
+
+                    
+                        <title>Daniel Carpenter</title>
+                    
+                </item>
+            
+        
+            
+                <item>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    
+
+                    
+                        
+
                         
                     
 
@@ -336,8 +392,6 @@
                     
                     
 
-                    
-                        <author>example@example.com (Author Demo)</author>
                     
 
                     
@@ -554,8 +608,6 @@
                         
 
                         
-                            
-                        
                     
 
                     
@@ -566,8 +618,6 @@
                     
                     
 
-                    
-                        <author>example@example.com (Author Demo)</author>
                     
 
                     
@@ -741,8 +791,6 @@
                         
 
                         
-                            
-                        
                     
 
                     
@@ -753,8 +801,6 @@
                     
                     
 
-                    
-                        <author>example@example.com (Author Demo)</author>
                     
 
                     
@@ -812,8 +858,6 @@
                         
 
                         
-                            
-                        
                     
 
                     
@@ -824,8 +868,6 @@
                     
                     
 
-                    
-                        <author>example@example.com (Author Demo)</author>
                     
 
                     
@@ -896,8 +938,6 @@
                         
 
                         
-                            
-                        
                     
 
                     
@@ -908,8 +948,6 @@
                     
                     
 
-                    
-                        <author>example@example.com (Author Demo)</author>
                     
 
                     
@@ -2122,8 +2160,6 @@ EUPL version.
                         
 
                         
-                            
-                        
                     
 
                     
@@ -2134,8 +2170,6 @@ EUPL version.
                     
                     
 
-                    
-                        <author>example@example.com (Author Demo)</author>
                     
 
                     

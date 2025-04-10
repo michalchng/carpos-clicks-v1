@@ -101,7 +101,7 @@
     
 
     
-        <updated>2023-09-18T21:21:05-07:00</updated>
+        <updated>0001-01-01T00:00:00Z</updated>
     
 
     
@@ -130,15 +130,11 @@
                     
                         <author>
                             
-                                <email>example@example.com</email>
-                            
 
                             
-                                <name>Author Demo</name>
+                                <name>Author-Demo</name>
                             
 
-                            
-                                <uri>https://example.com</uri>
                             
                         </author>
                     
@@ -212,15 +208,11 @@
                     
                         <author>
                             
-                                <email>example@example.com</email>
-                            
 
                             
-                                <name>Author Demo</name>
+                                <name>Author-Demo</name>
                             
 
-                            
-                                <uri>https://example.com</uri>
                             
                         </author>
                     
@@ -303,15 +295,11 @@ is a useful reference for emoji shorthand codes.</p><hr><p><strong>N.B.</strong>
                     
                         <author>
                             
-                                <email>example@example.com</email>
-                            
 
                             
-                                <name>Author Demo</name>
+                                <name>Author-Demo</name>
                             
 
-                            
-                                <uri>https://example.com</uri>
                             
                         </author>
                     
@@ -382,15 +370,11 @@ is a useful reference for emoji shorthand codes.</p><hr><p><strong>N.B.</strong>
                     
                         <author>
                             
-                                <email>example@example.com</email>
-                            
 
                             
-                                <name>Author Demo</name>
+                                <name>Author-Demo</name>
                             
 
-                            
-                                <uri>https://example.com</uri>
                             
                         </author>
                     
@@ -491,15 +475,11 @@ during Gopherfest, November 18, 2015.&#160;<a href=http://localhost:1313/content
                     
                         <author>
                             
-                                <email>example@example.com</email>
-                            
 
                             
-                                <name>Author Demo</name>
+                                <name>Author-Demo</name>
                             
 
-                            
-                                <uri>https://example.com</uri>
                             
                         </author>
                     
@@ -576,15 +556,11 @@ $$</p>]]></content>
                     
                         <author>
                             
-                                <email>example@example.com</email>
-                            
 
                             
-                                <name>Author Demo</name>
+                                <name>Author-Demo</name>
                             
 
-                            
-                                <uri>https://example.com</uri>
                             
                         </author>
                     
@@ -655,15 +631,11 @@ $$</p>]]></content>
                     
                         <author>
                             
-                                <email>example@example.com</email>
-                            
 
                             
-                                <name>Author Demo</name>
+                                <name>Author-Demo</name>
                             
 
-                            
-                                <uri>https://example.com</uri>
                             
                         </author>
                     

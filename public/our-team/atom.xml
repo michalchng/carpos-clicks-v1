@@ -95,7 +95,7 @@
     
 
     
-        <updated>2023-09-18T21:21:05-07:00</updated>
+        <updated>0001-01-01T00:00:00Z</updated>
     
 
     
@@ -126,15 +126,11 @@
                     
                         <author>
                             
-                                <email>example@example.com</email>
-                            
 
                             
-                                <name>Author Demo</name>
+                                <name>Author-Demo</name>
                             
 
-                            
-                                <uri>https://example.com</uri>
                             
                         </author>
                     

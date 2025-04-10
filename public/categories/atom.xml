@@ -57,7 +57,7 @@
     
 
     
-        <id>tag:localhost:1313,2023-09-18:/categories/atom.xml</id>
+        <id>tag:localhost:1313,0001-01-01:/categories/atom.xml</id>
     
 
     
@@ -89,15 +89,13 @@
     
 
     
-        <subtitle type="html"><![CDATA[Browse by category.]]></subtitle>
-    
 
     
         <title type="html"><![CDATA[Categories · Carpo&rsquo;s Clicks]]></title>
     
 
     
-        <updated>2023-09-18T21:21:05-07:00</updated>
+        <updated>0001-01-01T00:00:00Z</updated>
     
 
     

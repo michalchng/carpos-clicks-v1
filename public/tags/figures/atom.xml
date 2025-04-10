@@ -101,7 +101,7 @@
     
 
     
-        <updated>2023-09-18T21:21:05-07:00</updated>
+        <updated>0001-01-01T00:00:00Z</updated>
     
 
     
@@ -130,15 +130,11 @@
                     
                         <author>
                             
-                                <email>example@example.com</email>
-                            
 
                             
-                                <name>Author Demo</name>
+                                <name>Author-Demo</name>
                             
 
-                            
-                                <uri>https://example.com</uri>
                             
                         </author>
                     
@@ -351,6 +347,8 @@
                 
 
                 
+                    
+                
 
                 
                 
@@ -360,15 +358,86 @@
                     
                         <author>
                             
-                                <email>example@example.com</email>
+
+                            
+                                <name>Author-Demo</name>
                             
 
                             
-                                <name>Author Demo</name>
+                        </author>
+                    
+                
+
+                
+                    <content type="html"><![CDATA[CEO and founder of Carpos Clicks. Dan is constantly trying to improve his weak pickleball game]]></content>
+                
+
+                
+                    <id>tag:localhost:1313,0001-01-01:/our-team/dan/</id>
+                
+
+                
+                    
+
+                    
+
+                    <link href="http://localhost:1313/our-team/dan/" hreflang="en-ca" rel="alternate" type="text/html"/>
+                
+
+                
+
+                
+                    <published>0001-01-01T00:00:00Z</published>
+                
+
+                
+                    <rights type="html"><![CDATA[© Carpo&rsquo;s Clicks 360 Photobooth]]></rights>
+                
+
+                
+                    <summary type="html"><![CDATA[CEO and founder of Carpos Clicks. Dan is constantly trying to improve his weak pickleball game]]></summary>
+                
+
+                
+                    <title type="html"><![CDATA[Daniel Carpenter]]></title>
+                
+
+                
+                    <updated>0001-01-01T00:00:00Z</updated>
+                
+            </entry>
+        
+    
+        
+            <entry>
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+
+                
+
+                
+
+                
+                
+                
+
+                
+                    
+                        <author>
                             
 
                             
-                                <uri>https://example.com</uri>
+                                <name>Author-Demo</name>
+                            
+
                             
                         </author>
                     
@@ -605,15 +674,11 @@
                     
                         <author>
                             
-                                <email>example@example.com</email>
-                            
 
                             
-                                <name>Author Demo</name>
+                                <name>Author-Demo</name>
                             
 
-                            
-                                <uri>https://example.com</uri>
                             
                         </author>
                     
@@ -807,15 +872,11 @@
                     
                         <author>
                             
-                                <email>example@example.com</email>
-                            
 
                             
-                                <name>Author Demo</name>
+                                <name>Author-Demo</name>
                             
 
-                            
-                                <uri>https://example.com</uri>
                             
                         </author>
                     
@@ -893,15 +954,11 @@
                     
                         <author>
                             
-                                <email>example@example.com</email>
-                            
 
                             
-                                <name>Author Demo</name>
+                                <name>Author-Demo</name>
                             
 
-                            
-                                <uri>https://example.com</uri>
                             
                         </author>
                     
@@ -992,15 +1049,11 @@
                     
                         <author>
                             
-                                <email>example@example.com</email>
-                            
 
                             
-                                <name>Author Demo</name>
+                                <name>Author-Demo</name>
                             
 
-                            
-                                <uri>https://example.com</uri>
                             
                         </author>
                     
@@ -2233,15 +2286,11 @@ EUPL version.
                     
                         <author>
                             
-                                <email>example@example.com</email>
-                            
 
                             
-                                <name>Author Demo</name>
+                                <name>Author-Demo</name>
                             
 
-                            
-                                <uri>https://example.com</uri>
                             
                         </author>
                     

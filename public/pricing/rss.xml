@@ -41,15 +41,13 @@
         
 
         
-            <description>Rental prices</description>
-        
 
         
             <language>en-ca</language>
         
 
         
-            <lastBuildDate>Mon, 18 Sep 2023 21:21:05 -0700</lastBuildDate>
+            <lastBuildDate>Mon, 01 Jan 0001 00:00:00 UTC</lastBuildDate>
         
 
         
@@ -88,6 +86,180 @@
             <webMaster>example@example.com (John Doe)</webMaster>
         
 
+        
+            
+                <item>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+                        
+                    
+
+                    
+                    
+                    
+
+                    
+
+                    
+                        <description><![CDATA[$400/day]]></description>
+                    
+
+                    
+                        <guid isPermaLink="false">tag:localhost:1313,0001-01-01:/pricing/b-fullday/</guid>
+                    
+
+                    
+                        <link>http://localhost:1313/pricing/b-fullday/</link>
+                    
+
+                    
+                        
+
+                        
+
+                        <atom:link href="http://localhost:1313/pricing/b-fullday/" hreflang="en-ca" rel="alternate" type="text/html"/>
+                    
+
+                    
+
+                    
+                        <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+                    
+
+                    
+                        <title>Full Day</title>
+                    
+                </item>
+            
+        
+            
+                <item>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+                        
+                    
+
+                    
+                    
+                    
+
+                    
+
+                    
+                        <description><![CDATA[$100/hour]]></description>
+                    
+
+                    
+                        <guid isPermaLink="false">tag:localhost:1313,0001-01-01:/pricing/a-hourly/</guid>
+                    
+
+                    
+                        <link>http://localhost:1313/pricing/a-hourly/</link>
+                    
+
+                    
+                        
+
+                        
+
+                        <atom:link href="http://localhost:1313/pricing/a-hourly/" hreflang="en-ca" rel="alternate" type="text/html"/>
+                    
+
+                    
+
+                    
+                        <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+                    
+
+                    
+                        <title>Hourly</title>
+                    
+                </item>
+            
+        
+            
+                <item>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+                        
+                    
+
+                    
+                    
+                    
+
+                    
+
+                    
+                        <description><![CDATA[Please contact us for multiday rental inquiries]]></description>
+                    
+
+                    
+                        <guid isPermaLink="false">tag:localhost:1313,0001-01-01:/pricing/c-multiday/</guid>
+                    
+
+                    
+                        <link>http://localhost:1313/pricing/c-multiday/</link>
+                    
+
+                    
+                        
+
+                        
+
+                        <atom:link href="http://localhost:1313/pricing/c-multiday/" hreflang="en-ca" rel="alternate" type="text/html"/>
+                    
+
+                    
+
+                    
+                        <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+                    
+
+                    
+                        <title>Multiday</title>
+                    
+                </item>
+            
         
     </channel>
 </rss>
