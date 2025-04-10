@@ -4,80 +4,24 @@
   <url>
     <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>http://localhost:1313/authors/author-demo/</loc>
-  </url><url>
     <loc>http://localhost:1313/authors/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/shortcodes/code/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/code/</loc>
-  </url><url>
     <loc>http://localhost:1313/our-team/dan/</loc>
   </url><url>
-    <loc>http://localhost:1313/shortcodes/email/</loc>
+    <loc>http://localhost:1313/pricing/b-fullday/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/email/</loc>
+    <loc>http://localhost:1313/pricing/a-hourly/</loc>
   </url><url>
-    <loc>http://localhost:1313/shortcodes/figure/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/figures/</loc>
-  </url><url>
-    <loc>http://localhost:1313/shortcodes/gallery/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/gallery/</loc>
-  </url><url>
-    <loc>http://localhost:1313/pricing/fullday/</loc>
-  </url><url>
-    <loc>http://localhost:1313/pricing/hourly/</loc>
-  </url><url>
-    <loc>http://localhost:1313/shortcodes/icon/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/icon/</loc>
-  </url><url>
-    <loc>http://localhost:1313/shortcodes/image/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/images/</loc>
-  </url><url>
-    <loc>http://localhost:1313/pricing/multiday/</loc>
+    <loc>http://localhost:1313/pricing/c-multiday/</loc>
   </url><url>
     <loc>http://localhost:1313/our-team/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/paige/</loc>
-  </url><url>
     <loc>http://localhost:1313/pricing/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/quotations/</loc>
-  </url><url>
-    <loc>http://localhost:1313/shortcodes/quote/</loc>
-  </url><url>
-    <loc>http://localhost:1313/shortcodes/request/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/request/</loc>
   </url><url>
     <loc>http://localhost:1313/series/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/shortcodes/</loc>
-  </url><url>
-    <loc>http://localhost:1313/shortcodes/</loc>
-  </url><url>
-    <loc>http://localhost:1313/shortcodes/tabs/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/tabs/</loc>
-  </url><url>
     <loc>http://localhost:1313/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/videos/</loc>
-  </url><url>
-    <loc>http://localhost:1313/shortcodes/vimeo/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/vimeo/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/web-font/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/youtube/</loc>
-  </url><url>
-    <loc>http://localhost:1313/shortcodes/youtube/</loc>
   </url>
 </urlset>

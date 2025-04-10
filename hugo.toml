@@ -11,9 +11,6 @@ languagename = "English"
 title = "Carpo's Clicks"
 weight = 10
 
-[languages.en.params.paige.site]
-description = "Bow Valley's Best 360 Photobooth Rental"
-
 [markup.goldmark.renderer]
 unsafe = true
 
