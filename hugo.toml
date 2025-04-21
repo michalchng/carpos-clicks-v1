@@ -1,4 +1,4 @@
-baseurl = "https://carpos-clicks-v1-mb3m.vercel.app/"
+baseurl = "https://carposclicks.ca/"
 enablerobotstxt = true
 timezone = "Canada/Mountain"
 titlecasestyle = "Go"
